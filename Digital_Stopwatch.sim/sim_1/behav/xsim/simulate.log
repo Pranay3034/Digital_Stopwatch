@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Time=0 running=0 display= x x: x x
+Time=5000 running=0 display= 0 0: 0 0
+Time=65000 running=1 display= 0 0: 0 0
+Time=1035000 running=1 display= 0 0: 0 1
+PASS: Start and count to 00:01
+Time=1065000 running=0 display= 0 0: 0 1
+PASS: Pause
+Time=2065000 running=1 display= 0 0: 0 1
+Time=3035000 running=1 display= 0 0: 0 2
+PASS: Resume and count to 00:02
+Time=3045000 running=0 display= 0 0: 0 0
+PASS: Reset
+==================================
+ALL STOPWATCH INTEGRATION TESTS PASSED
+==================================
+$finish called at time : 3071 ns : File "C:/Users/prana/Documents/Hardware Systems Lab/MiniProject/Digital_Stopwatch/Digital_Stopwatch.srcs/sim_1/new/tb_digital_stopwatch.v" Line 159

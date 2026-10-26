@@ -1,0 +1,19 @@
+Vivado Simulator v2026.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2026.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_digital_stopwatch_behav xil_defaultlib.tb_digital_stopwatch xil_defaultlib.glbl -log elaborate.log 
+INFO: [XSIM 43-3493] Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.timing_generator(CLK_HZ=100,SCAN...
+Compiling module xil_defaultlib.bcd_counter
+Compiling module xil_defaultlib.seven_segment_decoder
+Compiling module xil_defaultlib.display_scanner
+Compiling module xil_defaultlib.digital_stopwatch_top(CLK_HZ=100...
+Compiling module xil_defaultlib.tb_digital_stopwatch
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_digital_stopwatch_behav
