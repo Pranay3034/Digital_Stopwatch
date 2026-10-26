@@ -295,11 +295,7 @@ Potential extensions include:
 
 M.Tech — Embedded Systems
 
-Interested in FPGA design, digital systems, Verilog HDL, and embedded hardware development.
-
-## ⭐ Support
-
-If you find this project useful for learning FPGA design and Verilog HDL, consider giving the repository a ⭐ on GitHub.
+Malaviya National Institute of Technology Jaipur 
 
 ---
 
